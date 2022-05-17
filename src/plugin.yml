@@ -1,0 +1,6 @@
+name: rabarbar
+version: 1.0
+main: main.Main
+api-version: 1.8
+commands:
+  pomoc:
