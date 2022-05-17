@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rabarbar:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="rabarbar.jar">
+      <element id="module-output" name="rabarbar" />
+    </root>
+  </artifact>
+</component>
