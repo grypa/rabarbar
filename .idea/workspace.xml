@@ -7,17 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b3e163-021f-424b-854f-f7b37fb40b9f" name="Changes" comment="some fix">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/ChatColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/cfgClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/fileManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabarbar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rabarbar.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cmds/Commands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmds/Pomoc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmds/Pomoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmds/Pomoc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652819495483</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="some fix">
+      <created>1652826304055</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652826304055</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

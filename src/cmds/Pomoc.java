@@ -12,7 +12,9 @@ public class Pomoc implements CommandExecutor {
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
         Player p = (Player)sender;
-        p.sendMessage(Main.getInst().getConfig().getString("messages"));
+        p.sendMessage(ChatColor.chat(Main.getInst().getConfig().getString("cmdpomocx1")));
+        p.sendMessage(ChatColor.chat(Main.getInst().getConfig().getString("cmdpomocx2")));
+        p.sendMessage(ChatColor.chat(Main.getInst().getConfig().getString("cmdpomocx3")));
         return false;
     }
 }
